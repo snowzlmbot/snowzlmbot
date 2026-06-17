@@ -1,0 +1,9 @@
+# Local OpenClaw / analysis artifacts
+graphify-out/
+.gitnexus/
+.claude/
+.codex/
+
+# OS / editor noise
+.DS_Store
+*.swp
